@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InputsFields</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="fourbit_clover_icon">Fourbit clover icon</string>
+    <string name="password">Password</string>
+</resources>
